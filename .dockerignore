@@ -17,3 +17,11 @@ data
 # Exclude git history and configuration.
 .gitignore
 README.md
+
+# Exclude docker compose files.
+docker-compose.yaml
+.env
+
+# Exclude air files.
+.air.toml
+.env
