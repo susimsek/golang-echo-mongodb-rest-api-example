@@ -21,6 +21,7 @@ README.md
 
 # Exclude docker compose files.
 docker-compose.yaml
+docker-compose.*.yml
 .env
 
 # Exclude air files.
