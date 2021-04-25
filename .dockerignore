@@ -15,6 +15,7 @@ data
 .gcloudignore
 
 # Exclude git history and configuration.
+.git
 .gitignore
 README.md
 
